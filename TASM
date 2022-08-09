@@ -1,0 +1,9 @@
+Crear un archivo codigo fuente 
+Guardarlo con extensión .asm y configuración UTF-8
+Instalar emulador para ensamblador (TASM)
+Abrir el emulador
+Utilizar el comando tasm <nombre del archivo con extensión .asm>
+Dar enter
+Utilizar el comando tlink seguido del nombre del archivo con extensión .obj
+Dar enter
+Escribir el nombre del archivo sin ninguna extensión y dar enter para observar los resultados
